@@ -1,0 +1,13 @@
+Excelente, agora que os arquivos estão baixados, vamos prosseguir com a instalação. Primeiro, vamos instalar o Node.js. Como estou utilizando o Windows, vou dar um duplo clique no arquivo de instalação e seguir os passos simples, clicando em "Next" até concluir a instalação. Certifique-se de que a opção para adicionar o Node.js ao PATH está marcada, pois isso facilitará a execução de comandos pelo terminal posteriormente.
+
+A próxima ferramenta que vamos instalar é o Git. Da mesma forma, dou um duplo clique no arquivo de instalação e sigo os passos simples até a conclusão. Também é importante marcar a opção para adicionar o Git ao PATH, para facilitar o uso do Git pelo terminal.
+
+Após a instalação do Node.js e do Git, agora vamos instalar o Visual Studio Code. Mais uma vez, dou um duplo clique no arquivo de instalação e sigo os passos simples até a conclusão. Certifique-se de ler e aceitar os termos de uso e também de marcar a opção para adicionar o VS Code ao PATH, para facilitar a abertura do VS Code pelo terminal.
+
+Com todas essas ferramentas instaladas, agora podemos começar a trabalhar. Vou criar uma estrutura de pastas para organizar nossos arquivos de código. No meu caso, vou criar uma pasta chamada "cursoJavaScriptV2" dentro da pasta "Documentos". Dentro dessa pasta, vou criar subpastas para cada seção do curso, começando com uma chamada "introducao".
+
+Dentro da pasta "introducao", vou criar um arquivo JavaScript chamado "primeiroExemplo.js". Nele, vou escrever um código simples para imprimir algo no console. Em seguida, posso abrir o terminal integrado ao VS Code e executar esse arquivo JavaScript usando o Node.js.
+
+Também vou criar um arquivo HTML chamado "primeiroExemplo.html" dentro da pasta "introducao". Nesse arquivo, vou incluir o código JavaScript usando a tag `<script>`. Posso então abrir esse arquivo no navegador e verificar se o código JavaScript está funcionando corretamente.
+
+Essas são algumas maneiras de testar o código JavaScript que escrevemos. No próximo vídeo, continuaremos com mais detalhes. Até lá!

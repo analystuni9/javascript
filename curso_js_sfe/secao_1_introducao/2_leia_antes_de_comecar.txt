@@ -1,0 +1,53 @@
+LEIA ANTES DE INICIAR
+POR FAVOR, LEIA ATENTAMENTE ANTES DE INICIAR O CURSO
+
+Este curso foi pensado para ser um ótimo ponto de partida para quem está iniciando na área de front-end. Se você já conhece Javascript, é provável que as primeiras aulas serão bem básicas para você. Contudo, do meio para o final deste curso abordarei assuntos mais avançados como MVC, testes e orientação a objetos. Tenha isso em mente ao dar continuidade ao treinamento.
+
+
+
+Sobre a lógica de programação
+
+É interessante e recomendado que você já tenha um conhecimento prévio de lógica de programação. Neste curso eu não explico o que é um if, um loop ou uma função. Eu espero que você já tenha esse conhecimento.
+
+Contudo, as primeiras aulas são um rápido resumo da lógica de programação para que você, que já conheça ou trabalhe com alguma outra linguagem, se acostume com a sintaxe do javascript.
+
+
+
+ES5 vs ES6
+
+A ideia central desse treinamento é criar códigos que rodem no browser. Por isso, sempre que indico uma feature nova da ECMAScript faço observações referente ao suporte nos browsers.
+
+
+
+Ferramentas necessárias
+
+Outra premissa da primeira versão desse treinamento era que não fosse necessária nenhuma instalação adicional de qualquer ferramenta que não fosse o browser ou o editor de código. Não utilizaríamos o babel, nem webpack, nem nodeJS. As ferramentas mudam, mas a base do Javascript, não (ou pelo menos é mais difícil mudar).
+
+Contudo, atendendo à solicitações de alunos, atualizei este curso com a inclusão de algumas ferramentas básicas utilizadas no dia-a-dia de uma pessoa desenvolvedora front-end.
+
+
+
+Download dos arquivos criados nas aulas
+
+Você pode baixar os arquivos criados nas aulas acessando o meu repositório do github. https://github.com/tapmorales/curso-javascript-completo-v2
+
+
+
+
+Como você deve estudar?
+
+O instrutor é um facilitador no processo de aprendizagem, mas ele não garante que o aluno ou a aluna irão aprender de verdade. É claro que uma boa didática, exercícios práticos e assuntos pertinentes contribuem para o aprendizado, mas na construção do conhecimento, o estudante é o protagonista e o instrutor é o coadjuvante. O papel do aluno e da aluna é estudar, praticar, experimentar e buscar mais conhecimento. 
+
+
+
+Avaliação Prévia
+
+A Udemy pode pedir uma avaliação logo no início do treinamento. O problema com isso é que nas primeiras aulas ainda não dá pára avaliar corretamente e uma nota baixa me prejudica, fazendo com que este curso não apareça nos resultados de busca por outras pessoas.
+
+Se você ainda não tiver condições de avaliar o curso de maneira justa, peço por gentileza não avaliar com uma nota baixa. Deixe para avaliar no fim de todo o curso, com uma avaliação mais correta e precisa  (nesse caso, podendo ate mesmo ser com uma nota baixa).
+
+Ficarei muito agradecido.
+
+Forte abraço e bons estudos
+
+Daniel

@@ -1,0 +1,11 @@
+Muito bem pessoal, agora vamos continuar com os sites abertos aqui do Visual Studio Code, do Git e do Node.js.
+
+Aqui está o Visual Studio Code. Este é o nosso editor de código. Vamos utilizar o VS Code, um editor bastante completo que possui uma interface gráfica um pouco confusa para quem está iniciando. Por isso, em outros treinamentos, acabo utilizando o Brackets porque tem uma interface mais limpa e podemos focar diretamente no código. No entanto, neste momento, é interessante começar a trabalhar com o Visual Studio Code também.
+
+Basicamente, você vai clicar aqui em "Download" para baixar o Visual Studio Code. Enquanto ele baixa, vamos também no site Git-SCM.com. Aqui, vamos baixar o Git. No momento, ele está na versão 2.26.2. Estou baixando a versão para Windows.
+
+E vou abrir aqui também o site Node.js. Este é o site oficial do Node.js. Aqui, temos duas opções para fazer o download: a opção LTS e a opção Current. Eu recomendo que vocês façam o download da versão LTS, ou seja, Long-Term Support, pois a equipe que desenvolve o Node.js fornecerá suporte por mais tempo.
+
+Então, façam o download da versão LTS. Estou fazendo o download aqui. No próximo vídeo, vou mostrar para vocês como fazer a instalação desses programas.
+
+Um grande abraço e até lá!

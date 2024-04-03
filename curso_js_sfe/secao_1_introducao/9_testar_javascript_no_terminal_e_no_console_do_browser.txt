@@ -1,0 +1,17 @@
+Olá pessoal!
+
+Vamos falar um pouco mais sobre como podemos testar nossos arquivos JavaScript. Uma maneira é usando o terminal integrado no Visual Studio Code, onde podemos executar comandos JavaScript diretamente.
+
+No terminal, podemos habilitar o ambiente Node.js para executar JavaScript. Depois de habilitado, podemos digitar comandos como `console.log("teste")` e executá-los pressionando Enter. Isso nos permite testar pequenos trechos de código JavaScript diretamente no terminal.
+
+Também podemos executar JavaScript diretamente no console do navegador, como o Chrome. No console do Chrome, podemos digitar comandos JavaScript, como `console.log("teste")`, e pressionar Enter para executá-los. Isso nos permite testar o JavaScript em tempo real no navegador.
+
+É importante notar que existem diferenças entre os ambientes do Node.js e do navegador. Alguns comandos, como `alert("teste")`, funcionam apenas no navegador, enquanto outros, como `console.log("teste")`, funcionam tanto no Node.js quanto no navegador.
+
+Além disso, é essencial entender que o JavaScript é interpretado pelo navegador ou pelo Node.js de acordo com o ambiente em que está sendo executado. Isso significa que certos comandos ou funcionalidades podem funcionar em um ambiente e não em outro.
+
+Por exemplo, o comando `alert("teste")` só funciona no navegador, enquanto o comando `console.log("teste")` funciona tanto no navegador quanto no Node.js.
+
+Em resumo, podemos testar nosso código JavaScript tanto no terminal do Visual Studio Code quanto no console do navegador, mas devemos estar cientes das diferenças entre os ambientes de execução.
+
+Até o próximo vídeo!

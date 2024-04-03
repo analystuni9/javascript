@@ -1,0 +1,15 @@
+Olá pessoal,
+
+Vamos começar a ver quais são as ferramentas que vamos precisar instalar para trabalhar durante nosso treinamento.
+
+A primeira coisa que vamos precisar é um editor de código. Para este treinamento, vou utilizar o Visual Studio Code, pois é amplamente utilizado no mercado de trabalho.
+
+A próxima ferramenta que vamos precisar é um terminal. Vou instalar o Git na minha máquina, que inclui um terminal simples, mas eficaz, chamado Git Bash. No entanto, você pode usar qualquer terminal de sua preferência.
+
+Também vamos instalar o Node.js. Durante o treinamento, veremos como utilizá-lo.
+
+Além disso, precisaremos de um navegador. Como mencionei anteriormente, é importante usar um navegador que seja "evergreen", ou seja, que se atualize automaticamente para suportar as versões mais recentes do JavaScript. Recomendo o Google Chrome, que é amplamente utilizado e possui ótimas ferramentas de desenvolvimento.
+
+No próximo vídeo, começaremos a baixar e instalar essas ferramentas. Vou mostrar como baixar os arquivos e fazer as instalações necessárias.
+
+Até lá!

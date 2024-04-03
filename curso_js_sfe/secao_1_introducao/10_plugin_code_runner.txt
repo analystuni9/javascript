@@ -1,0 +1,13 @@
+Olá pessoal!
+
+Vamos falar sobre outra maneira de testar nossos arquivos JavaScript usando um plugin chamado Code Runner no Visual Studio Code.
+
+Para instalar plugins no Visual Studio Code, basta clicar no ícone de extensões no menu lateral esquerdo, pesquisar o nome do plugin desejado (no caso, Code Runner) e clicar em "Install".
+
+Após a instalação, um novo botão chamado "Run Code" estará disponível. Ao clicar neste botão enquanto um arquivo JavaScript estiver aberto, o código será executado e o resultado será exibido na parte inferior da janela, em uma aba chamada "Output". Isso permite testar rapidamente pequenos trechos de código JavaScript diretamente no Visual Studio Code.
+
+Por exemplo, se tivermos o código `console.log("javascript funcionando")` em um arquivo JavaScript aberto, ao clicar em "Run Code", veremos a mensagem "javascript funcionando" exibida na aba "Output".
+
+Essa é mais uma opção que temos para testar nossos arquivos JavaScript de forma rápida e conveniente no Visual Studio Code.
+
+Até o próximo vídeo!

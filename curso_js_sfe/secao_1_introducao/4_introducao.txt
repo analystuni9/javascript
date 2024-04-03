@@ -1,0 +1,35 @@
+Olá pessoal,
+
+Bem-vindos de volta ao meu curso completo. Nesta seção, vamos falar um pouco sobre a introdução à linguagem JavaScript e começar a preparar nosso ambiente de trabalho.
+
+No próximo slide, vamos abordar o que é o JavaScript.
+
+[Slide]
+
+O JavaScript é uma linguagem de programação interpretada, o que significa que não é compilada. Isso quer dizer que o código JavaScript é lido e executado em tempo de execução pelo navegador ou outro ambiente em que esteja sendo utilizado. Como resultado, possíveis erros no código podem ser identificados apenas durante a execução.
+
+Além disso, o JavaScript possui tipagem dinâmica e fraca. Isso significa que as variáveis podem armazenar diferentes tipos de dados e podem ser alteradas ao longo do tempo. Vamos explorar esses conceitos com mais detalhes posteriormente no curso.
+
+[Slide]
+
+Outra característica importante do JavaScript é que ele é uma linguagem multi-paradigma, o que significa que pode ser utilizada em diversos estilos de programação, como orientação a objetos e programação funcional.
+
+Além disso, o JavaScript é a principal linguagem de programação do lado do cliente, o que significa que é executado no navegador do usuário final, sendo amplamente utilizado para adicionar interatividade e dinamismo aos sites.
+
+[Slide]
+
+Embora o JavaScript seja mais conhecido por seu uso no lado do cliente, também é possível utilizá-lo no lado do servidor. Existem plataformas como o Node.js que permitem executar JavaScript no servidor, possibilitando a criação de aplicativos web completos usando apenas JavaScript.
+
+[Slide]
+
+Agora, vamos falar um pouco sobre as versões do JavaScript. A primeira grande versão após o lançamento original foi o ECMAScript 5 (ES5), seguido pelo ECMAScript 2015 (também conhecido como ES6). Desde então, novas versões têm sido lançadas anualmente, cada uma introduzindo novos recursos e melhorias na linguagem.
+
+É importante notar que, embora novas versões adicionem novos recursos, elas não invalidam as versões anteriores. Os navegadores ainda precisam suportar as versões anteriores para garantir a compatibilidade com os sites existentes.
+
+[Slide]
+
+Para lidar com as diferenças entre as versões do JavaScript e garantir a compatibilidade com navegadores mais antigos, existem ferramentas como o Babel. O Babel é um compilador que converte código JavaScript moderno em uma versão compatível com navegadores mais antigos, permitindo que os desenvolvedores utilizem os recursos mais recentes da linguagem sem se preocupar com a compatibilidade.
+
+Além disso, é importante mencionar que alguns navegadores são "evergreen", o que significa que são atualizados automaticamente para suportar as versões mais recentes do JavaScript. Por exemplo, o Google Chrome é um navegador evergreen, enquanto o Internet Explorer requer atualizações manuais.
+
+Com isso, encerramos este vídeo. No próximo, começaremos a preparar nosso ambiente de trabalho. Até lá!

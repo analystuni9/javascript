@@ -1,0 +1,19 @@
+Olá pessoal!
+
+Quero compartilhar com vocês o objetivo desta seção. Aqui, vou abordar a importância da lógica de programação, especialmente para quem está se aventurando no mundo do JavaScript.
+
+No curso completo de JavaScript que você está assistindo agora, um dos pré-requisitos é ter um conhecimento básico de lógica de programação. Se você já sabe o que é uma função, uma variável e como usar estruturas de controle de fluxo, este curso é ideal para você.
+
+No entanto, reconhecendo que alguns alunos podem precisar revisar ou aprofundar seus conhecimentos em lógica de programação, criei um curso separado específico para isso. Neste curso de lógica de programação, abordo cada conceito passo a passo, adequado para quem está começando do zero.
+
+A razão por trás dessa separação é simples: se você já possui experiência em outras linguagens de programação como Java, Python ou C++, pode achar tedioso revisar conceitos básicos novamente ao começar um curso de JavaScript. Portanto, essa divisão permite que você mergulhe diretamente no JavaScript sem perder tempo com conceitos que já domina.
+
+No entanto, mesmo para aqueles que têm experiência prévia, uma rápida revisão da lógica de programação é útil, especialmente para entender como a sintaxe pode variar entre linguagens. Por exemplo, a maneira de criar uma lista em JavaScript pode ser diferente de outras linguagens, então vou abordar essas diferenças durante esta revisão.
+
+Portanto, esta seção não será um curso completo de lógica de programação, mas sim uma revisão abrangente. Vou abordar conceitos fundamentais e, sempre que necessário, discutir diferenças de sintaxe entre outras linguagens e o JavaScript.
+
+Se você já está familiarizado com lógica de programação, sinta-se à vontade para acelerar essa parte do curso, mas ainda assim recomendo dar uma olhada para revisar ou aprender algo novo.
+
+Até o próximo vídeo, onde começaremos esta revisão em detalhes!
+
+Um grande abraço!

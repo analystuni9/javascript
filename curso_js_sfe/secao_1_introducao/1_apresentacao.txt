@@ -1,0 +1,25 @@
+Olá pessoal,
+
+Bem-vindo ao meu treinamento completo de JavaScript, do iniciante ao mestre. No próximo slide, vamos começar a explorar os conceitos fundamentais desta linguagem.
+
+Antes de prosseguirmos, permitam-me apresentar-me. Meu nome é Daniel Morales. Embora minha formação acadêmica seja em design, atuo como desenvolvedor front-end há alguns anos, além de ministrar disciplinas relacionadas ao desenvolvimento. Hoje, estou aqui para compartilhar conhecimentos sobre JavaScript.
+
+Antes de entrarmos nos detalhes do treinamento, é importante alinhar algumas expectativas. Este curso não abordará HTML, CSS ou lógica de programação. Estamos focando exclusivamente em JavaScript, especialmente para iniciantes na linguagem. Sugiro que você venha com algum conhecimento prévio em programação, pois faremos apenas uma revisão rápida de conceitos básicos.
+
+Este treinamento será conduzido utilizando JavaScript puro, sem depender de frameworks ou bibliotecas externas. Acredito que entender o JavaScript fundamental é essencial antes de explorar ferramentas mais avançadas.
+
+Ao longo do curso, abordaremos o sistema léxico da linguagem, objetos nativos e customizados, manipulação do DOM, requisições Ajax, expressões regulares e muito mais.
+
+Quais são os requisitos para participar deste treinamento? É importante ter familiaridade com HTML, CSS e lógica de programação. Além disso, é necessário estar confortável com seu sistema operacional e ter habilidades básicas de criação de arquivos e diretórios.
+
+Quanto ao ambiente de trabalho, você precisará de um navegador, como o Chrome, e um editor de código, como o Visual Studio Code. Embora eu utilize o Windows para demonstrações, você pode adaptar o curso ao seu sistema operacional preferido.
+
+Antes de prosseguirmos, gostaria de abordar a questão das avaliações. Ao avaliar o curso, peço que o faça de forma justa e considerando sua experiência como um todo. Evite avaliações prematuras que possam prejudicar a percepção do curso.
+
+Para tirar dúvidas ao longo do curso, utilize o botão de perguntas disponível em cada aula. Isso me ajuda a entender melhor o contexto da sua dúvida e fornecer uma resposta mais precisa.
+
+Esta é a versão 2.0 do curso, atualizada para abordar conceitos mais recentes do JavaScript. Apesar das mudanças, mantive uma abordagem de ensino consistente, garantindo que alunos de versões anteriores também possam acompanhar as atualizações.
+
+Espero que este treinamento seja útil e enriquecedor para todos vocês. Nos vemos nos próximos vídeos!
+
+Um grande abraço e até lá.

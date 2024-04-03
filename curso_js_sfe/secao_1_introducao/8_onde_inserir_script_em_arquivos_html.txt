@@ -1,0 +1,15 @@
+Olá pessoal!
+
+Vamos falar um pouco sobre onde inserir o código JavaScript dentro do nosso HTML. Existem diferentes abordagens, e algumas pessoas optam por incluir o código JavaScript diretamente no documento HTML, como fiz aqui.
+
+No entanto, é importante entender como o navegador interpreta o código. O navegador, como o Chrome, lê o arquivo HTML de cima para baixo. Quando encontra a tag `<script>`, ele muda para o interpretador JavaScript e executa o código.
+
+Se o JavaScript estiver incluído no meio do documento HTML, o navegador precisará esperar até encontrar o script para interpretá-lo. Isso pode afetar a renderização da página, especialmente se houver muito código JavaScript a ser executado.
+
+Uma prática recomendada é colocar o código JavaScript no final do documento HTML, antes da tag de fechamento `</body>`. Dessa forma, o navegador carrega e renderiza o HTML primeiro, tornando a página mais rápida para o usuário.
+
+Além disso, mesmo que o JavaScript não manipule diretamente o HTML, colocá-lo no final pode melhorar a percepção de velocidade da página, pois permite que o conteúdo principal seja exibido mais rapidamente.
+
+Então, para resumir, é uma boa prática incluir o código JavaScript no final do documento HTML para melhorar a velocidade de carregamento e renderização da página.
+
+No próximo vídeo, vamos falar mais sobre como executar testes em nosso código JavaScript. Até lá!
