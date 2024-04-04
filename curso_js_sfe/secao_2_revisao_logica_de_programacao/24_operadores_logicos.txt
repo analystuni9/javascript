@@ -1,0 +1,35 @@
+Operadores lógicos
+and(&&);
+or(||);
+not(!);
+
+Aqui estão os operadores lógicos básicos:
+'and' (&&) é usado para verificar se ambas as expressões são verdadeiras.
+'or' (||) é usado para verificar se pelo menos uma das expressões é verdadeira.
+'not' (!) é usado para negar uma expressão, ou seja, tornar verdadeiro em falso e vice-versa.
+
+Se eu quero verificar se as 2 expressões são verdadeiras usando and (&&)
+Expressão A é verdadeira
+Expressão B é verdadeira
+Operador And: todas as expressões precisam ser verdadeiras para retornar verdadeiro.
+
+or(||) 
+Se qualquer uma das expressões for verdadeira, o resultado é verdadeiro.
+not(!A)
+Quando a expressão A é verdadeira, retorna falso;
+Quando a expressão A é falsa, retorna verdadeiro;
+
+Agora, aplicando esses conceitos em um exemplo prático:
+
+A imagem contém 3 bolas azuis e 2 bolas vermelhas
+Exp A: Verifica se há mais de seis bolas
+Exp B: Verifica se há duas ou mais bolas azuis
+
+Se Exp A e Exp B são verdadeiras, então há mais de seis bolas e duas ou mais são azuis.
+Se Exp A ou Exp B é verdadeira, então há mais de seis bolas ou duas ou mais são azuis.
+Se Exp A é verdadeira, significa que há mais de seis bolas. !ExpA retorna falso, pois a expressão original é verdadeira.
+
+Resumo:
+ExpA && ExpB: falso (porque A é falso)
+ExpA || ExpB: verdadeiro (porque B é verdadeiro)
+!ExpA: verdadeiro (porque A é falso)

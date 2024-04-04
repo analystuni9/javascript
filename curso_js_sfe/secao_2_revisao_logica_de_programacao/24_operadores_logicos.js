@@ -15,3 +15,5 @@ console.log(n1 != "10"); // Verifica se n1 é diferente de "10" em valor (false)
 console.log(n1 !== "10"); // Verifica se n1 é diferente de "10" em valor e tipo (true)
 
 // Esses operadores de comparação são usados para comparar os valores de variáveis ou expressões. O resultado de cada operação é um valor booleano (true ou false), dependendo se a condição é verdadeira ou falsa. O operador == verifica a igualdade de valor, enquanto === verifica igualdade de valor e tipo. Os operadores <, >, <=, e >= comparam os valores, e != e !== verificam a diferença em valor e/ou tipo.
+
+
